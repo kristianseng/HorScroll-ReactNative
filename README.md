@@ -1,7 +1,7 @@
 # HorScroll-ReactNative
 simple mobile app, horizontal scroll function
 
-![](pre.gif)
+![](pre.gif | width="200" height="400")
 
 
 
